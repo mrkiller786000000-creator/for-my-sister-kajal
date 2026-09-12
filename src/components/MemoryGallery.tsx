@@ -23,14 +23,14 @@ const initialMemories: MemoryPhoto[] = [
     id: 'mem-3',
     title: 'A Cherished Conversation',
     caption: '“One of my favorite memories”',
-    imageUrl: 'https://images.unsplash.com/photo-1511632765486-a01980e01a18?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'WhatsApp Image 2026-09-11 at 1.03.02 PM (3).jpeg',
     tag: 'Heart to Heart',
   },
   {
     id: 'mem-4',
     title: 'Timeless Sisterhood',
     caption: '“A moment worth keeping forever”',
-    imageUrl: 'https://images.unsplash.com/photo-1492684223066-81342ee5ff30?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'WhatsApp Image 2026-09-11 at 1.03.02 PM (4).jpeg',
     tag: 'Treasured',
   },
   {

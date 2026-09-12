@@ -9,7 +9,7 @@ const initialMemories: MemoryPhoto[] = [
     id: 'mem-1',
     title: 'That Unforgettable Moment',
     caption: '“That unforgettable moment ❤️”',
-    imageUrl: 'WhatsApp Image 2026-09-11 at 1.03.02 PM (2).jpeg',
+    imageUrl: 'src/assets/kajal/photo-1.jpeg',
     tag: 'Golden Hour',
   },
   {

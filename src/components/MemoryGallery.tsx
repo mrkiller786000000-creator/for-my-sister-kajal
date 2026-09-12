@@ -16,7 +16,7 @@ const initialMemories: MemoryPhoto[] = [
     id: 'mem-2',
     title: 'Pure Joy & Laughter',
     caption: '“The laughter we couldn&apos;t stop”',
-    imageUrl: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80',
+    imageUrl: 'https://github.com/mrkiller786000000-creator/for-my-sister-kajal/blob/main/WhatsApp%20Image%202026-09-11%20at%201.03.02%20PM%20(2).jpeg',
     tag: 'Smiles Forever',
   },
   {

@@ -9,7 +9,7 @@ const initialMemories: MemoryPhoto[] = [
     id: 'mem-1',
     title: 'That Unforgettable Moment',
     caption: '“That unforgettable moment ❤️”',
-    imageUrl: https://github.com/mrkiller786000000-creator/for-my-sister-kajal/blob/main/WhatsApp%20Image%202026-09-11%20at%201.03.02%20PM%20(1).jpeg,
+    imageUrl: https://github.com/mrkiller786000000-creator/for-my-sister-kajal/blob/main/WhatsApp%20Image%202026-09-11%20at%201.03.02%20PM%20(1).jpeg
     tag: 'Golden Hour',
   },
   {
